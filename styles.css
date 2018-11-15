@@ -1,1 +1,25 @@
-html{text-align: center;}
+html {text-align: center;}
+.heading {
+    font-family: 'Black And White Picture', sans-serif;
+    color: gold;
+}
+img {
+    height: 250px;
+}
+p {
+    font-size: 30px;
+    color: aqua;
+    font-family: 'Satisfy', cursive;
+}
+h1 {
+    font-family: 'Spicy Rice', cursive;
+    color: lime;
+}
+body{
+    background: url("http://soaps.skim.gs/image/upload/w_1230,h_718,c_fill,f_auto,q_auto,fl_lossy/v180430043829/soaps/wp-content/uploads/news/2018/04/soap-stars-red-carpet-arrivals-2018-emmys-t-getty.jpg");
+}
+
+
+
+
+
